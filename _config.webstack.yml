@@ -68,7 +68,7 @@ menu:
   - name: 静态网站托管（Coding）
     img: https://ae01.alicdn.com/kf/Hf4a158d295c948bfabf53e754048e569M.png
     url: https://ql-isaac.coding.net/p/hexoblog/cd/pages/static
-    description: 托管我的HexoBlog。
+    description: 托管我的 HexoBlog。
   - name: 对象存储（七牛云）
     img: https://cdn.jsdelivr.net/gh/ql-isaac/CDN1/images/七牛云.jpeg
     url: https://portal.qiniu.com/kodo/bucket/resource?bucketName=ql-isaac
