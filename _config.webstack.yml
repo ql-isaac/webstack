@@ -48,19 +48,19 @@ menu:
 
 个人站点:
   - name: ql-isaac
-    img: https://cdn.jsdelivr.net/gh/ql-isaac/CDN1/favicon/favicon-q.png
+    img: https://cdn.jsdelivr.net/gh/ql-isaac/nav-images-1/favicon-q.png
     url: https://ql-isaac.cn/
     description:
   - name: ql's HexoBlog
-    img: https://cdn.jsdelivr.net/gh/ql-isaac/CDN1/favicon/favicon-b.png
+    img: https://cdn.jsdelivr.net/gh/ql-isaac/nav-images-1/favicon-b.png
     url: https://blog.ql-isaac.cn/
     description:
   - name: ql's space
-    img: https://cdn.jsdelivr.net/gh/ql-isaac/CDN1/favicon/favicon-s.png
+    img: https://cdn.jsdelivr.net/gh/ql-isaac/nav-images-1/favicon-s.png
     url: https://space.ql-isaac.cn/
     description:
   - name: ql's nav
-    img: https://cdn.jsdelivr.net/gh/ql-isaac/CDN1/favicon/favicon-n.png
+    img: https://cdn.jsdelivr.net/gh/ql-isaac/nav-images-1/favicon-n.png
     url: /
     description:
 
@@ -70,23 +70,23 @@ menu:
     url: https://ql-isaac.coding.net/p/hexoblog/cd/pages/static
     description: 托管我的 HexoBlog。
   - name: 对象存储（七牛云）
-    img: https://cdn.jsdelivr.net/gh/ql-isaac/CDN1/images/七牛云.jpeg
+    img: https://cdn.jsdelivr.net/gh/ql-isaac/nav-images-1/七牛云.jpeg
     url: https://portal.qiniu.com/kodo/bucket/resource?bucketName=ql-isaac
     description: 使用的第一个图床。
   - name: 头像（Gravatar）
-    img: https://cdn.jsdelivr.net/gh/ql-isaac/CDN1/images/Gravatar.png
+    img: https://cdn.jsdelivr.net/gh/ql-isaac/nav-images-1/Gravatar.png
     url: https://cn.gravatar.com/emails
     description: 绑定邮箱的全球通用头像。
   - name: 网页在线通讯（DaoVoice）
-    img: https://cdn.jsdelivr.net/gh/ql-isaac/CDN1/images/DaoVoice.jpg
+    img: https://cdn.jsdelivr.net/gh/ql-isaac/nav-images-1/DaoVoice.jpg
     url: http://dashboard.daovoice.io/app/006213f1/settings/general
     description:
   - name: CDN（腾讯云）
-    img: https://cdn.jsdelivr.net/gh/ql-isaac/CDN1/images/腾讯云.jpg
+    img: https://cdn.jsdelivr.net/gh/ql-isaac/nav-images-1/腾讯云.jpg
     url: https://console.cloud.tencent.com/cdn/domains
     description: 内容分发网络，加速我的基于 Hexo 的静态网站。
   - name: 站长统计（友盟）
-    img: https://cdn.jsdelivr.net/gh/ql-isaac/CDN1/images/友盟.jpeg
+    img: https://cdn.jsdelivr.net/gh/ql-isaac/nav-images-1/友盟.jpeg
     url: https://web.umeng.com/main.php?c=site&a=show
     description: U-Web - 网站流量统计分析工具
   - name: 静态网站托管（Vercel）
@@ -98,15 +98,15 @@ menu:
     url: https://www.netlify.com/
     description: 免费服务，速度稍稍有点慢。
   - name: 云服务（LeanCloud）
-    img: https://cdn.jsdelivr.net/gh/ql-isaac/CDN1/images/LeanCloud.png
+    img: https://cdn.jsdelivr.net/gh/ql-isaac/nav-images-1/LeanCloud.png
     url: https://console.leancloud.cn/apps
     description: 用于评论系统。
   - name: DNS 云解析（阿里云）
-    img: https://cdn.jsdelivr.net/gh/ql-isaac/CDN1/images/阿里云.png
+    img: https://cdn.jsdelivr.net/gh/ql-isaac/nav-images-1/阿里云.png
     url: https://dns.console.aliyun.com/?spm=5176.12901015.0.i12901015.5265525cN9Hm3e#/dns/setting/ql-isaac.cn
     description: 域名解析
   - name: 国内测速（站长工具）
-    img: https://cdn.jsdelivr.net/gh/ql-isaac/CDN1/images/站长之家.png
+    img: https://cdn.jsdelivr.net/gh/ql-isaac/nav-images-1/站长之家.png
     url: https://tool.chinaz.com/speedtest/
     description: 博客国内测速
 
@@ -122,25 +122,25 @@ menu:
 
 优质软件:
   - name: ScreenToGif
-    img: https://cdn.jsdelivr.net/gh/ql-isaac/CDN1/images/ScreenToGif.png
+    img: https://cdn.jsdelivr.net/gh/ql-isaac/nav-images-1/ScreenToGif.png
     url: https://www.screentogif.com/
     description: GIF 录制
 
 参考资料:
   - name: 菜鸟教程
-    img: https://cdn.jsdelivr.net/gh/ql-isaac/CDN1/images/runoob.png
+    img: https://cdn.jsdelivr.net/gh/ql-isaac/nav-images-1/runoob.png
     url: https://www.runoob.com/
     description: 菜鸟教程
 
 电子游戏:
   - name: 游戏免费拿（Epic）
-    img: https://cdn.jsdelivr.net/gh/ql-isaac/CDN1/images/Epic.jpg
+    img: https://cdn.jsdelivr.net/gh/ql-isaac/nav-images-1/Epic.jpg
     url: https://www.epicgames.com/store/zh-CN/free-games
     description: 每周白嫖，不玩也得拿。
 
 图片素材:
   - name: iconfont
-    img: https://cdn.jsdelivr.net/gh/ql-isaac/CDN1/images/iconfont.png
+    img: https://cdn.jsdelivr.net/gh/ql-isaac/nav-images-1/iconfont.png
     url: http://www.iconfont.cn/
     description: 阿里巴巴矢量图标库
   - name: 小康的 Font Awesome 5 图标速查
@@ -233,7 +233,7 @@ menu:
     description: 面向开源及私有软件项目的托管平台。
   - name: Gitee
     url: https://gitee.com/
-    img: https://cdn.jsdelivr.net/gh/ql-isaac/CDN1/images/Gitee.png
+    img: https://cdn.jsdelivr.net/gh/ql-isaac/nav-images-1/Gitee.png
     description: 和 Github 相比，唯一的优点：访问快？
 
 about:
