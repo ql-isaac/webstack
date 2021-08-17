@@ -133,6 +133,10 @@ menu:
     img: https://cdn.jsdelivr.net/gh/isaac-ql/nav-images-1/ScreenToGif.png
     url: https://www.screentogif.com/
     description: GIF 录制
+  - name: Carnac
+    img: /images/webstack_icon_producthunt.png
+    url: http://code52.org/carnac/
+    description: 按键操作实时显示工具
 
 参考资料:
   - name: 菜鸟教程
