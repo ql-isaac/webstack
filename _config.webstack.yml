@@ -36,9 +36,15 @@ menu:
   - name: 素材资源
     icon: far fa-star
     submenu:
-      - name: 图片素材
+      - name: 图标
         icon: fas fa-tools
-        config: 图片素材
+        config: 图标
+      - name: 文章封面或头图
+        icon: fas fa-tools
+        config: 文章封面或头图
+      - name: 图片
+        icon: fas fa-tools
+        config: 图片
       - name: 渐变配色
         icon: fas fa-tools
         config: 渐变配色
@@ -150,7 +156,7 @@ menu:
     url: https://www.epicgames.com/store/zh-CN/free-games
     description: 每周白嫖，不玩也得拿。
 
-图片素材:
+图标:
   - name: iconfont
     img: https://cdn.jsdelivr.net/gh/ql-isaac/nav-images-1/iconfont.png
     url: http://www.iconfont.cn/
@@ -163,6 +169,34 @@ menu:
     img: https://ae01.alicdn.com/kf/H139ad2194f9547d7b43005c8e18f048cR.png
     url: https://fontawesome.com/icons?d=gallery&g=hands&m=free
     description: 快速查询 Font Awesome5 的图标。
+  - name: Notion Icons
+    img: /images/webstack_icon_producthunt.png
+    url: https://www.notion.vip/icons/
+    description: Notion Icons
+  - name: ICONS8
+    img: /images/webstack_icon_producthunt.png
+    url: https://igoutu.cn/
+    description: 图标、插图、照片、音乐和设计工具
+  - name: ICONS8
+    img: /images/webstack_icon_producthunt.png
+    url: https://igoutu.cn/
+    description: 图标、插图、照片、音乐和设计工具
+
+文章封面或头图:
+  - name: 创客贴
+    img: /images/webstack_icon_producthunt.png
+    url: https://www.chuangkit.com/
+    description: 让设计触手可得。
+  - name: 可画
+    img: /images/webstack_icon_producthunt.png
+    url: https://www.canva.cn/
+    description: 可画
+
+图片:
+  - name: wallhaven
+    img: /images/webstack_icon_producthunt.png
+    url: https://wallhaven.cc/
+    description: The best wallpapers on the Net!
   - name: Pinterest
     img: https://ae01.alicdn.com/kf/H007c1d984d47401591376258699206a9j.png
     url: https://www.pinterest.com/
