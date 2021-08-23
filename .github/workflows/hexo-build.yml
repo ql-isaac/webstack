@@ -29,3 +29,4 @@ jobs:
           git add .
           git commit -m "Site updated" -q
           git push -f -q "https://${{secrets.GH_TOKEN}}@${{secrets.GH_REF_WEBSTACK}}" main
+          git push -f -q "https://${{ secrets.CD_USER }}:${{secrets.CD_TOKEN}}@${{secrets.CD_REF_WEBSTACK}}" main
